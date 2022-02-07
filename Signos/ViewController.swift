@@ -31,7 +31,7 @@ class ViewController: UITableViewController {
         
         // significados
         
-        significadoSigno.append("O ariano e determinado")
+        significadoSigno.append("O ariano e determinado e persistente")
         significadoSigno.append("O touro e determinado")
         significadoSigno.append("O gemeos e determinado")
         significadoSigno.append("O cancer e determinado")
